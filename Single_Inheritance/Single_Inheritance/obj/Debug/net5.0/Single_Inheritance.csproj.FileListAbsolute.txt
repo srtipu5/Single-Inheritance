@@ -1,0 +1,16 @@
+C:\Users\Tipu\Desktop\Windows Project\Single_Inheritance\Single_Inheritance\bin\Debug\net5.0\Single_Inheritance.exe
+C:\Users\Tipu\Desktop\Windows Project\Single_Inheritance\Single_Inheritance\bin\Debug\net5.0\Single_Inheritance.deps.json
+C:\Users\Tipu\Desktop\Windows Project\Single_Inheritance\Single_Inheritance\bin\Debug\net5.0\Single_Inheritance.runtimeconfig.json
+C:\Users\Tipu\Desktop\Windows Project\Single_Inheritance\Single_Inheritance\bin\Debug\net5.0\Single_Inheritance.runtimeconfig.dev.json
+C:\Users\Tipu\Desktop\Windows Project\Single_Inheritance\Single_Inheritance\bin\Debug\net5.0\Single_Inheritance.dll
+C:\Users\Tipu\Desktop\Windows Project\Single_Inheritance\Single_Inheritance\bin\Debug\net5.0\ref\Single_Inheritance.dll
+C:\Users\Tipu\Desktop\Windows Project\Single_Inheritance\Single_Inheritance\bin\Debug\net5.0\Single_Inheritance.pdb
+C:\Users\Tipu\Desktop\Windows Project\Single_Inheritance\Single_Inheritance\obj\Debug\net5.0\Single_Inheritance.csproj.AssemblyReference.cache
+C:\Users\Tipu\Desktop\Windows Project\Single_Inheritance\Single_Inheritance\obj\Debug\net5.0\Single_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tipu\Desktop\Windows Project\Single_Inheritance\Single_Inheritance\obj\Debug\net5.0\Single_Inheritance.AssemblyInfoInputs.cache
+C:\Users\Tipu\Desktop\Windows Project\Single_Inheritance\Single_Inheritance\obj\Debug\net5.0\Single_Inheritance.AssemblyInfo.cs
+C:\Users\Tipu\Desktop\Windows Project\Single_Inheritance\Single_Inheritance\obj\Debug\net5.0\Single_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Tipu\Desktop\Windows Project\Single_Inheritance\Single_Inheritance\obj\Debug\net5.0\Single_Inheritance.dll
+C:\Users\Tipu\Desktop\Windows Project\Single_Inheritance\Single_Inheritance\obj\Debug\net5.0\ref\Single_Inheritance.dll
+C:\Users\Tipu\Desktop\Windows Project\Single_Inheritance\Single_Inheritance\obj\Debug\net5.0\Single_Inheritance.pdb
+C:\Users\Tipu\Desktop\Windows Project\Single_Inheritance\Single_Inheritance\obj\Debug\net5.0\Single_Inheritance.genruntimeconfig.cache
